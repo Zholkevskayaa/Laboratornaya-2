@@ -1,1 +1,1 @@
-# Laboratornaya-2
+# Laba-2
